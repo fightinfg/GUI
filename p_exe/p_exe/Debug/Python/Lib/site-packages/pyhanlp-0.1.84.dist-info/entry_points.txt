@@ -1,0 +1,3 @@
+[console_scripts]
+hanlp = pyhanlp.main:main
+
