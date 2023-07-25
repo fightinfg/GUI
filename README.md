@@ -13,4 +13,4 @@ An Effective Automatic Chinese Scoring System for Medical Education
 
 6.When testing, please use 模拟的学生答案 in the GUI-main folder
 
-Note: Our software currently only supports windows. Other systems will be updated later.
+Note: Our software currently only supports windows.
